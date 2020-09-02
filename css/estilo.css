@@ -1,0 +1,234 @@
+body {
+  font-family: 'arial', sans-serif;
+  font-size: 16px;
+  background: #eee;
+  color:#666;
+}
+.cadastroLogin-container {
+  height: 100vh;
+  width: 100%;
+}
+.login-form {
+  margin: auto;
+  width: 370px;
+  padding: 15px;
+  max-width: 100%;
+}
+.login-form .form-control {
+  font-size: 15px;
+  min-height: 48px;
+  font-weight: 500;
+}
+.login-form a {
+  text-decoration: none;
+  color:#666;
+}
+.login-form a:hover {
+  color:dimgray;
+}
+
+.cadastro-form {
+    margin: auto;
+    width: 370px;
+    padding: 15px;
+    max-width: 100%;
+}
+.cadastro-form .form-control {
+    font-size: 15px;
+    min-height: 48px;
+    font-weight: 500;
+}
+.cadastro-form a {
+    text-decoration: none;
+    color:#666;
+}
+.cadastro-form a:hover {
+    color:dimgray;
+}
+
+.form-control:focus {
+  border-color:dimgray;
+  box-shadow: 0 0 0 0.2rem #6666;
+}
+
+.btn-custom {
+  background: dimgray;
+  border-color:dimgray;
+  color:#fff;
+  font-size: 15px;
+  font-weight: 600;
+  min-height: 48px;
+}
+
+.btn-custom:focus {
+    box-shadow: 0 0 0 0.2rem #6666;
+}
+
+.btn-custom:focus,
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:active:focus {
+  background: dimgray;
+  border-color: dimgray;
+  color:#fff;
+}
+
+.navbar {
+  width: 100%;
+  height: 50px;
+  background: dimgray;
+  color: white;
+  text-align: center;
+  margin: 0px 0px 0px;
+}
+
+
+.tilulo-boards {
+  margin: 80px 35px 0px;
+}
+.div-titulo-list {
+  margin: 50px 0px 0px;
+}
+
+.linkBoard {
+  color: white;
+}
+
+.col-sm-2 {
+  margin: 10px 10px 10px;
+}
+
+.tilulo-board-list {
+  margin: 0px 16px 0px;
+  color: white;
+}
+
+.card, .card-body {
+  width: 159.96px;
+  color: #fff;
+
+}
+.divBoards {
+  margin: 10px 10px 20px;
+}
+
+.add-list-btn {
+  width: 140px;
+  height: 40px;
+}
+
+.tilulo-board-list {
+  font-family: 'arial', sans-serif;
+  font-size: 25px;
+  color: dimgray;
+  margin: 15px 25px 0px;
+}
+
+.list-group-item {
+  margin: 15px 10px 25px;
+  background-color: rgb(124, 214, 236);
+}
+
+.div-list {
+  width: 272px;
+  height: 450px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 0%;
+}
+
+.btn-addNovaLista {
+  font-family: 'arial', sans-serif;
+  font-size: 20px;
+  color: dimgray;
+  width: 200;
+  margin: 10px 22px 0px;
+}
+
+.list-title {
+  font-family: 'arial', sans-serif;
+  font-size: 20px;
+  color: white;
+  margin: 5px;
+}
+
+.item-card {
+  width: 200px;
+  margin: 10px 3px 0px;
+  background-color: rgb(255, 255, 255);
+}
+
+ul{
+  padding: 0px 0px 0px 0px;
+}
+
+.div-list {
+  width: 269px;
+  margin: 15px 25px 0px;
+  padding: 0px;
+}
+
+a .list-group-item {
+  margin: 10px 10px 10px;
+  color: dimgray;
+}
+
+.list-title {
+  margin: 10px 20px 10px;
+}
+
+.icone-editar-list {
+  width: 8%;
+  height: 8%;
+}
+
+.icone-lixeira-list {
+  width: 8%;
+  height: 8%;
+}
+
+.icone-editar-board {
+  width: 15%;
+  height: 25%;
+  margin-left: 70px;
+}
+
+.icone-lixeira-board {
+  width: 15%;
+  height: 25%;
+  margin-left: 5px;
+}
+
+.icone-editar-card {
+  width: 10%;
+  height: 10%;
+  
+}
+
+.icone-lixeira-card {
+  width: 10%;
+  height: 10%;
+  margin-right: 10px;
+}
+
+.logoLoginCadastro {
+  width: 90%;
+  height: 90%;
+}
+
+.logoNavBar {
+  width: 10%;
+  height: 10%;
+  margin: 5px 160px 5px;
+}
+
+.icone-home {
+  margin: 13px 0px 5px;
+}
+
+.icone-sair {
+  margin: 13px 0px 10px 0px;
+}
+
+
+
